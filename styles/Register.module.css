@@ -1,0 +1,8 @@
+.inputForm {
+    color: "#fff";
+}
+
+.inputForm:hover {
+    border-color: "#000";
+    
+}
